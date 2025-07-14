@@ -1,5 +1,5 @@
 # Emii-Tech-website
-This is simple website with just a simple HTML and CSS. The website include links to direct you my GitHub, Email and Facebook page.
+This is simple website with just a simple HTML and CSS. This website include links to direct you to my GitHub, Email and Facebook page.
 
 # Learnings
 This project helped me explore:
