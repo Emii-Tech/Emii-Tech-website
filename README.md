@@ -3,7 +3,8 @@ This is simple website with just a simple HTML and CSS. The website include link
 
 # Learnings
 This project helped me explore:
-  -How to create a website and link it with social media and Email.
+
+  How to create a website and link it with social media and Email.
 
 # License
 This project is an open source and free to use.
